@@ -1,1 +1,36 @@
-Добро пожаловать на сборку INFINITY
+Сборка объединяет создание собственного парка Юрского периода с помощью мода Fossils and Archeology: Revival и технологическое развитие до космического уровня через Draconic Evolution. Игроку предстоит пройти путь от строительства базы и парка динозавров до исследования продвинутых механизмов и сражений с боссами, используя Draconic Armor и другое ультимативное снаряжение.
+
+Основные направления сборки
+Динозавры и парк Юрского периода
+
+Fossils and Archeology: Revival — воскрешение динозавров, создание парка.
+
+Farmer’s Delight, Veggies Delight, Nether’s Delight — разнообразие еды для работников и гостей парка.
+
+MrCrayfish’s Furniture, Malisis’ Doors Revived, Chipped, Supplementaries, Farmer’s Structures — постройка зданий, музеев, лабораторий и вольеров.
+
+Технологии и прогрессия
+
+Mekanism и аддоны — автоматизация, энергетика, добыча ресурсов.
+
+Applied Energistics 2, MEGA Cells, Just Enough Mekanism Multiblocks — хранение предметов и ресурсообработка.
+
+Draconic Evolution — финальный этап: ультимативная броня, оружие и энергия.
+
+Мир и исследования
+
+YUNG’s Better Dungeons, Strongholds, Mineshafts и другие — переработанные структуры для исследования.
+
+When Dungeons Arise, Seven Seas, Towns and Towers, Dungeon Crawl — крупные и атмосферные подземелья, города и башни.
+
+Explorify, Oh The Biomes We’ve Gone, Oh The Trees You’ll Grow, Serene Seasons — красивые биомы, новые деревья и смена сезонов.
+
+Атмосфера и удобства
+
+AmbientSounds, Sound Physics Remastered, Cold Sweat — реализм и иммерсивность.
+
+FancyMenu, BetterF3, Chat Heads, Xaero’s Minimap/World Map — удобный интерфейс.
+
+Embeddium, Sodium, FerriteCore, ModernFix, Memory Leak Fix — оптимизация и высокий FPS.
+
+Simple Voice Chat, Emotecraft — общение и эмоции в мультиплеере.
